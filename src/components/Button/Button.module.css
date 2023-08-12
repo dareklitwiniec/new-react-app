@@ -1,0 +1,14 @@
+.btn {
+  padding: 8px 12px;
+  border-radius: 3px;
+  border: 0;
+}
+.btn-primary {
+  background-color: #0d6efd;
+  color: white;
+}
+.btn-primary:hover {
+  background-color: #f4acd5;
+  color: rgb(78, 6, 154);
+  box-shadow: -6px 10px 10px -5px rgba(66, 68, 90, 1);
+}
